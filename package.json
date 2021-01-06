@@ -1,0 +1,23 @@
+{
+    "name": "night-owl-database",
+    "displayName": "night-owl-database",
+    "description": "Night Owl theme for Azure Data Studio",
+    "publisher": "Rudy Rodarte",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0",
+        "azdata": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Owl Database4",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Owl Database-color-theme.json"
+            }
+        ]
+    }
+}
