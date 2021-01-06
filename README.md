@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "night-owl-database"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Night Owl for Database 
+The popular Night Owl theme for Visual Studio Code, now for Azure Data Studio. Many thanks to Sarah Drasner for the orignal <a href="https://github.com/sdras/night-owl-vscode-theme">Night Owl VSCode theme</a>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+##  Installation
+Currently, the only way to install the theme is download the vsix file
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+## Screenshots
+Coming Soon
+
+## Light Version
+Coming Soon

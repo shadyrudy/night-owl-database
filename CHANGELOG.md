@@ -2,8 +2,9 @@
 
 All notable changes to the "night-owl-database" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## "0.1.0"
 
-## [Unreleased]
-
-- Initial release
+- Initial release.
+- Merged the settings from the built in Abyss theme and the Night Owl theme
+- Added SQL Server Specific tokenColors in the theme file.
+- Added .gitignore, license, and readme files.

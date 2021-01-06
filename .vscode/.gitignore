@@ -1,0 +1,2 @@
+# Ignore the output from VSCE /publish
+*.vsix
